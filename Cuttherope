@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html> 
+<style>
+  body{
+    overflow: hidden;
+    position: fixed;
+  }
+</style>
+<body>
+
+<iframe src="https://auranticus.github.io/CutTheRope" title="tetris" width="1700" height="800" allowfullscreen="true"allign="center">
+</iframe>
+
+</body>
+</html>
